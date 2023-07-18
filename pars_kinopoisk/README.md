@@ -11,5 +11,9 @@
 ---
 ## Требуется ТЗ
 В моменте пришел к выводу что не знаю что я хочу. Фактически адекватная работа не возможно без записи целей и желаемых конечных результатов
-
+<div>
+  <img src="https://github.com/Art9050/pet/blob/main/pars_kinopoisk/image/image.png" title="Схема процесса" alt="Google" width="500" height="500"/>&nbsp;
+</div>
+<!--
 ![Блок схема процесса](https://github.com/Art9050/pet/blob/main/pars_kinopoisk/image/image.png)
+-->
