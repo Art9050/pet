@@ -1,6 +1,8 @@
 # Парсер данных кинопоиска
 Работу веду в [колабе](https://colab.research.google.com/drive/1LpTNqnM9rLcBiJ5oD2b6acyMMb1lP5bB?usp=sharing) \
+Репозиторий в [гите](https://github.com/Art9050/pet/blob/main/pars_kinopoisk/pars_kinopoisk.py) <не структурировал> \
 Основа: [Провект по аналитеке данных](https://miptstats.github.io/courses/ad_fivt/data_parsing.html)  
+
 
 - Разбираюсь как работает
 - Вношу изменения где не работает
